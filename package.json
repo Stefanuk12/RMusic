@@ -1,0 +1,22 @@
+{
+  "name": "rmusic",
+  "version": "1.0.0",
+  "description": "An interface that will let you have further power over your ROBLOX audios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefanuk12/RMusic.git"
+  },
+  "author": "Stefanuk12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stefanuk12/RMusic/issues"
+  },
+  "homepage": "https://github.com/Stefanuk12/RMusic#readme",
+  "dependencies": {
+    "got": "^11.8.1"
+  }
+}

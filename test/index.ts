@@ -1,5 +1,5 @@
 // Dependencies
-import { RMusic } from "../src/index"
+import { RMusic } from "../src/index" // import { RMusic } from "rmusic"
 
 // RMusic
 const _RMusic = new RMusic();

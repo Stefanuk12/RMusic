@@ -73,11 +73,9 @@ export class RMusic {
     find(audio: IRMusicAudio, musicTable: Array<IRMusicAudio> = this.MusicTable){
         for (const _audio of musicTable){
             if (_audio.id == audio.id){
-                return true;
+                return _audio;
             }
         }
-
-        return false;
     }
 
     // Remove audio from table

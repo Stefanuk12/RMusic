@@ -1,6 +1,6 @@
 {
   "name": "rmusic",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "An interface that will let you have further power over your ROBLOX audios.",
   "main": "index.js",
   "scripts": {
